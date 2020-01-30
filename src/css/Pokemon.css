@@ -1,0 +1,22 @@
+.sprites{
+    background-color: rgb(63, 100, 26);
+    width: 178px;
+    margin-top: -5px;
+}
+.tab{
+    padding-left: 3px;
+}
+.textline{
+    tab-size: 220px;
+    white-space: pre;
+}
+li{
+    list-style: none;
+}
+.container{
+    margin-top: -2px;
+    background-color: cornflowerblue;
+}
+.stuff{
+    margin-left: 10px;
+}
