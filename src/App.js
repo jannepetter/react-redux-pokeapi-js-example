@@ -8,7 +8,7 @@ const App = () => {
   const[page,setPage]=useState(0)
   const[show,setShow]=useState('list')
   const [pokemonId,setPokemonId]=useState('') 
-  const[filter,setFilter]=useState('') 
+  const[filter,setFilter]=useState('')
 
   return ( 
     <div>
