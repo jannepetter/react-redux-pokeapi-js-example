@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-redux-pokeapi-js-example/static/css/main.e61a5a5e.chunk.css",
+    "main.js": "/react-redux-pokeapi-js-example/static/js/main.0647d311.chunk.js",
+    "main.js.map": "/react-redux-pokeapi-js-example/static/js/main.0647d311.chunk.js.map",
+    "runtime-main.js": "/react-redux-pokeapi-js-example/static/js/runtime-main.5e0ed51a.js",
+    "runtime-main.js.map": "/react-redux-pokeapi-js-example/static/js/runtime-main.5e0ed51a.js.map",
+    "static/js/2.4e48afb6.chunk.js": "/react-redux-pokeapi-js-example/static/js/2.4e48afb6.chunk.js",
+    "static/js/2.4e48afb6.chunk.js.map": "/react-redux-pokeapi-js-example/static/js/2.4e48afb6.chunk.js.map",
+    "index.html": "/react-redux-pokeapi-js-example/index.html",
+    "precache-manifest.5ee7224c28a8afb91c00cbe052641adc.js": "/react-redux-pokeapi-js-example/precache-manifest.5ee7224c28a8afb91c00cbe052641adc.js",
+    "service-worker.js": "/react-redux-pokeapi-js-example/service-worker.js",
+    "static/css/main.e61a5a5e.chunk.css.map": "/react-redux-pokeapi-js-example/static/css/main.e61a5a5e.chunk.css.map",
+    "static/js/2.4e48afb6.chunk.js.LICENSE": "/react-redux-pokeapi-js-example/static/js/2.4e48afb6.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e0ed51a.js",
+    "static/js/2.4e48afb6.chunk.js",
+    "static/css/main.e61a5a5e.chunk.css",
+    "static/js/main.0647d311.chunk.js"
+  ]
+}
